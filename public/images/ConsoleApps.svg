@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1452.81 920.63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+
+      .cls-2 {
+        font-family: MicrosoftSansSerif, 'Microsoft Sans Serif';
+        font-size: 116.22px;
+      }
+    </style>
+  </defs>
+  <g id="SpeechBubbles">
+    <g id="ConsoleApps">
+      <path class="cls-1" d="M1448.31,460.31c0,251.74-276.45,455.81-617.48,455.81-234.34,0-438.19-96.37-542.8-238.35l-255.96,22.32,218.91-82.75c-24.33-48.97-37.62-101.85-37.62-157.04C213.36,208.57,489.81,4.5,830.83,4.5s617.48,204.07,617.48,455.81Z"/>
+      <text class="cls-2" transform="translate(313.98 358.15) rotate(.12)"><tspan x="0" y="0">I have hello world</tspan><tspan x="0" y="139.46">console apps written</tspan><tspan x="0" y="278.92">in Java</tspan></text>
+    </g>
+  </g>
+</svg>

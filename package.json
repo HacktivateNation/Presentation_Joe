@@ -1,0 +1,14 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "description": "Basic setup for presentations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "MTanner",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

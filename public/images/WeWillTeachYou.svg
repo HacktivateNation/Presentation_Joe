@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2249.31 1132.23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        font-family: MicrosoftSansSerif, 'Microsoft Sans Serif';
+        font-size: 198.28px;
+      }
+    </style>
+  </defs>
+  <g id="Buildings">
+    <g id="WeWillTeachYou">
+      <path class="cls-1" d="M1505.21,913.16l462.47,165.17-566.03-91.92c-148.21,87.62-343.1,140.82-556.59,140.82C381.11,1127.23,5,876.01,5,566.12S381.11,5,845.06,5c183.66,0,353.55,39.37,491.8,106.16L1924.21,13.27l-431.28,195.64c105.76,85.48,174.34,192.25,189.16,309.25l524.69,38.51-529.55,86.65c-20.81,101.01-81.87,193.44-172.02,269.84Z"/>
+      <text class="cls-2" transform="translate(126.09 646.02)"><tspan x="0" y="0">We’ll teach you!</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3546.33 588.19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+    </style>
+  </defs>
+  <g id="Business_People" data-name="Business People">
+    <path class="cls-1" d="M645.27,277.25c0,85.75-126.86,156.23-289.14,164.33l-27.97,79.23-21.48-78.72C138.2,437.22,4.5,365.28,4.5,277.25S147.94,112.15,324.89,112.15s320.38,73.92,320.38,165.1Z"/>
+    <path class="cls-1" d="M1367.96,285.2c0,85.75-126.86,156.23-289.14,164.33l-27.97,79.23-21.48-78.72c-168.48-4.87-302.18-76.81-302.18-164.84s143.44-165.1,320.39-165.1,320.38,73.92,320.38,165.1Z"/>
+    <path class="cls-1" d="M2060.86,329.56c0,85.75-126.86,156.23-289.14,164.33l-27.97,79.23-21.48-78.72c-168.48-4.87-302.18-76.81-302.18-164.84s143.44-165.1,320.39-165.1,320.38,73.92,320.38,165.1Z"/>
+    <path class="cls-1" d="M2783.36,241.29c0,85.75-126.86,156.23-289.14,164.33l-27.97,79.23-21.48-78.72c-168.48-4.87-302.18-76.81-302.18-164.84s143.44-165.1,320.39-165.1,320.38,73.92,320.38,165.1Z"/>
+    <path class="cls-1" d="M3541.83,290.33c0,85.75-126.86,156.23-289.14,164.33l-27.97,79.23-21.48-78.72c-168.48-4.87-302.18-76.81-302.18-164.84s143.44-165.1,320.39-165.1,320.38,73.92,320.38,165.1Z"/>
+    <image width="512" height="512" transform="translate(2233.13) scale(.94)" xlink:href="../../../Downloads/csharp-e7b8fcd4ce.png"/>
+    <image width="512" height="512" transform="translate(2994.87 65.39) scale(.9)" xlink:href="../../../Downloads/unnamed.png"/>
+    <image width="800" height="800" transform="translate(1582.4 166.58) scale(.4)" xlink:href="../../../Downloads/Rust_programming_language_black_logo.svg.png"/>
+    <image width="1024" height="600" transform="translate(749.11 100.92) scale(.58)" xlink:href="../../../Downloads/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png"/>
+    <image width="800" height="877" transform="translate(179.89 128.08) scale(.37)" xlink:href="../../../Downloads/Python-logo-notext.svg.png"/>
+  </g>
+</svg>

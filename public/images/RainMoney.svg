@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1759.76 1118.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+
+      .cls-2 {
+        font-family: MicrosoftSansSerif, 'Microsoft Sans Serif';
+        font-size: 130px;
+      }
+    </style>
+  </defs>
+  <g id="SpeechBubbles">
+    <g id="RainMoney">
+      <path class="cls-1" d="M4.5,559.11c0,306.3,336.37,554.61,751.31,554.61,285.13,0,533.17-117.26,660.44-290.01l311.43,27.16-266.35-100.68c29.61-59.58,45.78-123.93,45.78-191.07,0-306.3-336.37-554.61-751.3-554.61-414.94,0-751.31,248.3-751.31,554.61Z"/>
+      <text class="cls-2" transform="translate(331.91 296.7)"><tspan x="0" y="0">If you learn</tspan><tspan x="0" y="156">how to code then</tspan><tspan x="0" y="312">companies will</tspan><tspan x="0" y="468">throw money</tspan><tspan x="0" y="624">at you!</tspan></text>
+    </g>
+  </g>
+</svg>
